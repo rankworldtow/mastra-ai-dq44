@@ -1,4 +1,4 @@
-# 
+# Inteligente Mastra plugins. Con grafos de conocimiento y ejecución de código — optimizado para el máximo rendimiento y eficiencia.
 
 
 
